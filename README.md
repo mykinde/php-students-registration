@@ -53,14 +53,23 @@ Folder Structure
 ### /student-registration/
 │
 ├── config/         # Database connection
+
 ├── includes/       # Common headers, footers, session checks
+
 ├── js/            # JavaScript for dynamic dropdown
+
 ├── admin/         # Admin panel scripts
+
 ├── register.php   # Student registration page
+
 ├── login.php      # Student login page
+
 ├── dashboard.php  # Student dashboard
+
 ├── logout.php     # Logout script for all users
+
 ├── index.php      # Landing page
+
 └── README.md      # This file
 
 
