@@ -1,0 +1,1 @@
+ALTER TABLE `admins` ADD `email` VARCHAR(256) NOT NULL AFTER `password`, ADD `verified` INT(11) NULL DEFAULT NULL AFTER `email`;
